@@ -22,5 +22,5 @@ jobs:
     - uses: docker/build-push-action@v5.1.0
       with:
         push: true
-        tag: magicdoorx/backend:latest
+        tags: magicdoorx/backend:latest
     
